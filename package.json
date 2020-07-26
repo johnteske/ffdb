@@ -1,0 +1,19 @@
+{
+  "name": "ffdb",
+  "version": "0.0.1",
+  "description": "flat file database",
+  "main": "dist/index.js",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && tsc -p .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Teske",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.0.26",
+    "typescript": "^3.9.7"
+  }
+}
