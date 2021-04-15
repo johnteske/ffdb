@@ -13,7 +13,7 @@
   "author": "John Teske",
   "license": "MIT",
   "dependencies": {
-    "@types/node": "^14.0.26",
+    "@types/node": "^14.14.35",
     "typescript": "^3.9.7"
   }
 }
